@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jannygarcia.github.io
+title: Incredimail Converter Tool
+tagline: Convert emails Incredimail to EML, EMLX, MSG or PST Format
+description: Incredimail Converter tool provides opportunity to convert Incredimail emails to popular email clients- Outlook, Windows Mail, Thunderbird, Mac Mail, Entourage, Eudora, Windows Live Mail etc. By this tool you can convert batch of IMM files or the whole folder containing multiple IMM files at once using the “Add Folder having IMM files” option made available with the program. IncrediMail Conversion is performed with all email attributes such as delivery recipient [to, cc, from], subject, date & time stamp. 
+paginate: 1
